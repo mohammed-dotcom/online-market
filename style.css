@@ -1,0 +1,17 @@
+body
+{
+    background-color: aqua;
+    position: relative;
+ 
+}
+h1
+{
+    background-color: crimson;
+    transition-property: all;
+    
+}
+h1,image
+{
+    border: forestgreen 1px solid;
+  
+}
